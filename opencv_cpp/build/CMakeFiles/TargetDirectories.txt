@@ -1,0 +1,3 @@
+/home/pi/exp/exp1/src/opencv_cpp/ultralytics/examples/YOLOv8-CPP-Inference/build/CMakeFiles/Yolov8CPPInference.dir
+/home/pi/exp/exp1/src/opencv_cpp/ultralytics/examples/YOLOv8-CPP-Inference/build/CMakeFiles/edit_cache.dir
+/home/pi/exp/exp1/src/opencv_cpp/ultralytics/examples/YOLOv8-CPP-Inference/build/CMakeFiles/rebuild_cache.dir

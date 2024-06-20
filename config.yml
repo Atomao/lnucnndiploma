@@ -1,0 +1,16 @@
+input: //home/pi/exp/exp1/data/videos/Video1_Timelapse.mp4
+
+
+model_type: onnx
+model: /home/pi/exp/exp1/models/yolov5nu_pruned90.0.onnx 
+size:
+    - 640 
+    - 640
+
+confidence_thres: 0.25
+iou_thres: 0.25
+num_threads: 4
+
+
+
+system_metrics_log_file: logs/system_metrics_test.csv
